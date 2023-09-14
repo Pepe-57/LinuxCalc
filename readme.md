@@ -1,6 +1,7 @@
 # LinuxCalc
 LinuxCalc is simple terminal based calculator for Linux.
 ## How to install
+Copy the code from bellow and paste it to terminal.
 ```
 git clone https://github.com/Pepe-57/LinuxCalc.git
 cd LinuxCalc
@@ -9,9 +10,13 @@ mkdir build
 cd build
 cmake ..
 make
-
+echo 'alias linuxcalc="~/LinuxCalc/Releases/build/linuxcalc"' >> ~/.bashrc
 ```
 Run the executable from the build directory.
 ```
 ./LinuxCalc
+```
+Command works after a reboot.
+```
+linuxcalc
 ```
