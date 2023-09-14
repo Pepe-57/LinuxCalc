@@ -3,4 +3,4 @@ cmake_minimum_required(VERSION 3.10)
 project(LinuxCalc C)
 
 # Add your source file(s) here
-add_executable(linuxcalc /Releases/linuxcalc.c)
+add_executable(linuxcalc /Releases/linuxcalc_1.0.c)
