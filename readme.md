@@ -2,7 +2,9 @@
 LinuxCalc is simple terminal based calculator for Linux.
 ## How to install
 ```
-wget repo_here
+git clone https://github.com/Pepe-57/LinuxCalc.git
+cd LinuxCalc
+cd Releases
 mkdir build
 cd build
 cmake ..
