@@ -1,5 +1,6 @@
 # LinuxCalc
 LinuxCalc is simple terminal based calculator for Linux.
+Tested on Debian
 ## How to install
 Copy the code from bellow and paste it to terminal.
 ```
