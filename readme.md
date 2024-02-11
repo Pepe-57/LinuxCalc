@@ -4,6 +4,7 @@ Tested on Debian
 ## How to install
 Copy the code from bellow and paste it to terminal.
 ```
+sudo rm -rf LinuxCalc
 git clone https://github.com/Pepe-57/LinuxCalc.git
 cd LinuxCalc
 cd Releases
