@@ -12,6 +12,7 @@ cd build
 cmake ..
 make
 echo 'alias linuxcalc="~/LinuxCalc/Releases/build/linuxcalc"' >> ~/.bashrc
+echo 'alias lcalc="~/LinuxCalc/Releases/build/linuxcalc"' >> ~/.bashrc
 ```
 Run the executable from the build directory.
 ```
@@ -20,4 +21,8 @@ Run the executable from the build directory.
 Command works after a reboot.
 ```
 linuxcalc
+```
+or
+```
+lcalc
 ```
