@@ -1,8 +1,8 @@
 # LinuxCalc
-LinuxCalc is simple terminal based calculator for Linux.
+LinuxCalc is a simple terminal-based calculator for Linux.
 Tested on Debian
 ## How to install
-Copy the code from bellow and paste it to terminal.
+Copy the code from below and paste it to the terminal.
 ```
 sudo rm -rf LinuxCalc
 git clone https://github.com/Pepe-57/LinuxCalc.git
@@ -19,7 +19,7 @@ Run the executable from the build directory.
 ```
 ./LinuxCalc
 ```
-Command works after a reboot.
+The command works after a reboot.
 ```
 linuxcalc
 ```
